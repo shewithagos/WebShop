@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomerService (1)/CustomerService/CustomerService.iml" filepath="$PROJECT_DIR$/CustomerService (1)/CustomerService/CustomerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer2/EurekaServer (1).iml" filepath="$PROJECT_DIR$/EurekaServer2/EurekaServer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderCommandService/OrderCommandService.iml" filepath="$PROJECT_DIR$/OrderCommandService/OrderCommandService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderQueriesService/OrderQueriesService.iml" filepath="$PROJECT_DIR$/OrderQueriesService/OrderQueriesService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaymentService (1)/PaymentService/PaymentService.iml" filepath="$PROJECT_DIR$/PaymentService (1)/PaymentService/PaymentService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductService/ProductService.iml" filepath="$PROJECT_DIR$/ProductService/ProductService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductService2/ProductService (1).iml" filepath="$PROJECT_DIR$/ProductService2/ProductService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client/SpringBootServlet.iml" filepath="$PROJECT_DIR$/Client/SpringBootServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WebShopApp.iml" filepath="$PROJECT_DIR$/.idea/WebShopApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiGateway/cloudgateway.iml" filepath="$PROJECT_DIR$/ApiGateway/cloudgateway.iml" />
+    </modules>
+  </component>
+</project>

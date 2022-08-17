@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="WebShopApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OrderCommandService.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PaymentService.zip!/" />
+      <root url="jar://$PROJECT_DIR$/OrderQueriesService.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ProductService.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CustomerService (1).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
