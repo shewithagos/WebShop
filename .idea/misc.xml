@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/WebShopApp/Client/pom.xml" />
+        <option value="$PROJECT_DIR$/WebShopApp/ApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/WebShopApp/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/WebShopApp/EurekaServer2/pom.xml" />
+        <option value="$PROJECT_DIR$/WebShopApp/PaymentService/pom.xml" />
+        <option value="$PROJECT_DIR$/WebShopApp/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/WebShopApp/CustomerService/pom.xml" />
+        <option value="$PROJECT_DIR$/WebShopApp/ProductService2/pom.xml" />
+        <option value="$PROJECT_DIR$/WebShopApp/OrderCommandService/pom.xml" />
+        <option value="$PROJECT_DIR$/WebShopApp/OrderQueriesService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
