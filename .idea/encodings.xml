@@ -5,12 +5,14 @@
     <file url="file://$PROJECT_DIR$/WebShopApp/ApiGateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/Client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/Client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebShopApp/CustomerService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/EurekaServer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/EurekaServer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/EurekaServer2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/EurekaServer2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/OrderCommandService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/OrderCommandService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebShopApp/OrderQueriesService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/PaymentService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/PaymentService/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WebShopApp/ProductService/src/main/java" charset="UTF-8" />
